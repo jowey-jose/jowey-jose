@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Mbuku
 - 👀 I am a full-stack software engineer, based in Nairobi, Kenya.
-- 🌱 I’m currently working on Fintech, MedTech Solutions.
+- 🌱 I’m mainly working on Fintech and MedTech Solutions, among others.
 - 💞️ I’m looking to collaborate on client-specific and open-source projects.
 - 📫 My protfolio website: josephmbuku.com
 
