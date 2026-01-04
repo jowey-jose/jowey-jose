@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Joseph Mbuku
-- 👀 I am a full-stack software engineer, based in Nairobi, Kenya.
-- 🌱 I’m mainly working on Fintech and MedTech Solutions, among others.
-- 💞️ I’m looking to collaborate on client-specific and open-source projects.
-- 📫 My protfolio website: josephmbuku.com
+👋 Hi, I’m Joseph Mbuku — a Full-Stack Software Engineer based in Nairobi, Kenya.
+
+I enjoy building creative, innovative software solutions with a focus on scalability, performance, and great user experience.
+
+I’m open to collaborating on client-driven and open-source projects.
+
+📫 Portfolio: https://joseph-mbuku-kinyumu.netlify.app/
 
 <!---
 jowey-jose/jowey-jose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
